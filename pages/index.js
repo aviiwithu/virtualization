@@ -15,7 +15,6 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <p>test para</p>
         <div className={styles.virtual_container}>
             <VirtualList
              list={listData} 
